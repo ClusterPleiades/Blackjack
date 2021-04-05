@@ -159,7 +159,7 @@ public class MainButtons {
 					System.err.println("Desktop doesn't support web browser action");
 				}
 				try {
-					URI uri = new URI("https", "github.com/Speedroid", "/path");
+					URI uri = new URI("https", "github.com/ClusterPleiades", "/path");
 
 					desktop.browse(uri);
 				} catch (IOException _e) {

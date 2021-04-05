@@ -24,7 +24,7 @@ public class BlackJack extends JFrame {
 	public BlackJack() {
 
 		/* initialize screen */
-		setTitle("SpeedRoid.BlackJack");
+		setTitle("Blackjack");
 		setSize(screenWidth, screenHeight);
 		setResizable(false);
 		setLocationRelativeTo(null);
